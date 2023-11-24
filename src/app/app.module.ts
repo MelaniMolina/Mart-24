@@ -15,16 +15,14 @@ import { provideStorage, getStorage } from '@angular/fire/storage';
 
 
 const firebaseConfig = {
-  apiKey: "key",
-  authDomain: "fir-app-8aeed.firebaseapp.com",
-  databaseURL: "https://fir-app-8aeed-default-rtdb.europe-west1.firebasedatabase.app",
-  projectId: "fir-app-8aeed",
-  storageBucket: "fir-app-8aeed.appspot.com",
-  messagingSenderId: "185858410266",
-  appId: "1:185858410266:web:f70ef798abb4ac3106cea3",
-  measurementId: "G-2JCXV9F1PZ"
+  apiKey: "AIzaSyBN21J9_DHHkX7pu4q50e8RSVuJcAkSdz0",
+  authDomain: "bjp-e9ae2.firebaseapp.com",
+  projectId: "bjp-e9ae2",
+  storageBucket: "bjp-e9ae2.appspot.com",
+  messagingSenderId: "199906236527",
+  appId: "1:199906236527:web:cd4b2e6293cf6ff7a7559a",
+  measurementId: "G-JJSX8G0G14"
 };
-
 
 @NgModule({
   declarations: [AppComponent],
